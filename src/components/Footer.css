@@ -1,0 +1,28 @@
+.footer {
+    background-color: #1a1a1a;
+    padding: 50px 10%;
+    text-align: left;
+  }
+  
+  .footer h4 {
+    margin-bottom: 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer ul {
+    list-style: none;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    text-decoration: none;
+    color: #ffd700;
+  }
+  

@@ -1,0 +1,25 @@
+.section {
+    display: flex;
+    padding: 50px 10%;
+    border-bottom: 1px solid #333;
+  }
+  
+  .section-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .section-image {
+    flex: 1;
+  }
+  
+  .section h2 {
+    font-size: 1.8rem;
+  }
+  
+  .read-more {
+    margin-top: 1rem;
+    display: inline-block;
+    color: #ffd700;
+  }
+  

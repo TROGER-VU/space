@@ -1,0 +1,29 @@
+.hero {
+    position: relative;
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .hero-content {
+    position: absolute;
+    top: 150px;
+    left: 450px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .hero-content h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .hero-content p {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+  }
+  
